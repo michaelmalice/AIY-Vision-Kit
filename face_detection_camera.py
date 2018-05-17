@@ -12,6 +12,11 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+
+
+#Editing file as test for git branch
+
+
 """Camera inference face detection demo code.
 
 Runs continuous face detection on the VisionBonnet and prints the number of
